@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import "tailwindcss/preflight";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+ 
+.create_container {
+  @apply mx-auto w-[50%]
+}
+
+.esas_bg {
+  @apply bg-[#fff3eb]
+}
+
+.esas_container {
+  @apply mx-auto w-[95%]
+}
+
+.bgBlue {
+  @apply bg-blue-500
+}
+
+.blue {
+  @apply outline-blue-500
+}
