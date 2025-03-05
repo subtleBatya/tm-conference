@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className='f-2'>
+      <div className='f-2 text-5xl text-amber-200'>
         HOW ARE YOU
       </div>
     </>
