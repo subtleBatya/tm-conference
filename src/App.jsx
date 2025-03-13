@@ -48,7 +48,7 @@ function App() {
 
         <Navbar />
         {/* <Router> */}
-        <div className="grow esas_container">
+        <div className="grow">
 
           {/* <Routes> */}
             <Home />
