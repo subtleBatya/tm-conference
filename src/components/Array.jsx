@@ -4,10 +4,10 @@ import React from 'react'
 
 function Array() {
     return (
-        <div className=' z-20 relative '>
+        <div className=' z-20 relative esas_container'>
 
             <div className=' pt-5'></div>
-                <div className='text-lg font-semibold'>ARRAY</div>
+                <div className='text-lg esas_txt font-semibold'>ARRAY</div>
                 {/* <div className="grid grid-rows-1">
                     <div className=' grid grid-cols-12 gap-0 align-middle  font-semibold text-md border-2 rounded-md  items-center px-7'>
                         <div className='px-1 py-7 col-span-10 '>
@@ -32,7 +32,7 @@ function Array() {
                 </div> */}
 
 
-  <div className="grid grid-cols-12 py-4 gap-0 font-semibold text-md border-2 rounded-md items-center px-7">
+  <div className="grid grid-cols-12 py-4 gap-0 font-semibold text-md border esas_border rounded-md items-center px-7">
     
     {/* Left block */}
     <div className="px-1 col-span-10 flex">

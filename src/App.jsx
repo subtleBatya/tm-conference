@@ -44,7 +44,7 @@ function App() {
 
   return (
     <>
-      <div className="flex min-h-[100vh] flex-col bg-blue-700/80">
+      <div className="flex min-h-[100vh] flex-col bg-blue-600/80">
 
         <Navbar />
         {/* <Router> */}

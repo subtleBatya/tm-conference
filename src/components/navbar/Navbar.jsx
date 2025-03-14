@@ -47,7 +47,7 @@ function Navbar() {
                         Aşgabat/ Türkmenistan
                     </div>
                 </div> */}
-                <div className=' flex justify-between font-semibold text-md w-full border-2 rounded-md py-2 px-10'>
+                <div className=' flex justify-between font-semibold text-md w-full border esas_border rounded-md py-2 px-10'>
                     <div>О КОНФЕРЕНЦИИ</div>
                     <div>КЛЮЧЕВЫЕ ТЕМЫ</div>
                     <div>ARRAY</div>

@@ -5,13 +5,25 @@
 @tailwind utilities;
 
 
+
+
+
 /* @import "tailwindcss/preflight";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities"; */
 
- 
+
 .create_container {
   @apply mx-auto w-[50%]
+}
+
+.esas_txt {
+  @apply text-white;
+}
+
+.esas_border {
+  @apply border-white/60;
+
 }
 
 .esas_bg {
