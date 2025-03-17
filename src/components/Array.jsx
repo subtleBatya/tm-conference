@@ -32,9 +32,9 @@ function Array() {
                 </div> */}
 
 
-  <div className="grid grid-cols-12 py-4 gap-0 font-semibold text-md border esas_border rounded-md items-center px-7">
+  {/* <div className="grid grid-cols-12 py-4 gap-0 font-semibold text-md border esas_border rounded-md items-center px-7">
     
-    {/* Left block */}
+    {/* Left block *
     <div className="px-1 col-span-10 flex">
       <div className="bg-white flex items-center w-full px-2 py-3">
         <div className="flex items-center">
@@ -46,14 +46,248 @@ function Array() {
       </div>
     </div>
 
-    {/* Right block */}
+    {/* Right block *
     <div className="px-1 col-span-2 h-full flex">
       <div className="bg-white flex items-center justify-center w-full px-2 py-3">
         <div className="text-sm text-center">Галерея (QR)</div>
       </div>
     </div>
 
-  </div>
+  </div> */}
+
+
+<div className=" py-4 space-y-1 font-semibold text-md border esas_border rounded-md items-center px-2">
+                <div className='grid grid-cols-12'>
+                    {/* Left block */}
+                    <div className=" col-span-10 flex">
+                    <div className="bg-white flex items-center w-full px-2 py-3">
+                        <div className="flex items-center">
+                        <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                            8:00 - 9:30
+                        </div>
+                        <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                        </div>
+                    </div>
+                    </div>
+
+                    {/* Right block */}
+                    <div className=" col-span-2 h-full flex ps-1">
+                    <div className="bg-white flex items-center justify-center w-full px-2 py-3">
+                        <div className="text-sm text-center">Галерея (QR)</div>
+                    </div>
+                    </div>        
+                </div>
+                
+                    {/* 2nd ROW */}
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-3">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-3">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-3">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-3">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-12 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-3">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-12 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-3">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-12 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-3">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-1">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-1">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-1">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-1">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-1">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-1">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-1">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-1">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+
+            <div className='flex grid grid-cols-12 '>
+                 {/* Left block */}
+                 <div className=" col-span-10 flex ">
+                 <div className="bg-white  flex items-center w-full px-2 py-1">
+                     <div className="flex items-center">
+                     <div className="bg-blue-700 text-white me-2 px-4 py-2">
+                         8:00 - 9:30
+                     </div>
+                     <div className="text-sm">Регистрация <br /> (по приглашению)</div>
+                     </div>
+                 </div>
+                 </div>
+
+                 {/* Right block */}
+                 <div className=" col-span-2 h-full ps-1 flex">
+                 <div className="bg-white  flex items-center justify-center w-full px-2 py-1">
+                     <div className="text-sm text-center">Галерея (QR)</div>
+                 </div>
+                 </div>        
+            </div>
+                    
+              
+                
+                
+
+                
+
+
+                
+
+            </div>
+  
 
 
                 

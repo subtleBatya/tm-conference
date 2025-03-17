@@ -56,7 +56,7 @@ function KeyThemes() {
         <div className=" text-center items-center align-middle">
             <div className='border-t-6 rounded-t-2xl border-red-500 my-auto space-y-5 text-center items-center align-middle  aspect-[16/12] bg-gray-200/20'>
                 <div>
-                    <div className=" text-7xl font-bold text-blue-400  text-center align-middle items-center">01</div>
+                    <div className="  text-8xl font-bold text-blue-400  text-center align-middle items-center">01</div>
                     <div className=" capitalize text-center align-middle items-center">modern trends in public administration</div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ function KeyThemes() {
         <div className=" text-center items-center align-middle">
             <div className='border-t-6 rounded-t-2xl border-green-500 my-auto space-y-5 text-center items-center align-middle  aspect-[16/12] bg-gray-200/20'>
                 <div>
-                    <div className=" text-7xl font-bold text-blue-400  text-center align-middle items-center">01</div>
+                    <div className=" text-8xl font-bold text-blue-400  text-center align-middle items-center">01</div>
                     <div className=" capitalize text-center align-middle items-center">modern trends in public administration</div>
                 </div>
             </div>
@@ -73,7 +73,7 @@ function KeyThemes() {
         <div className=" text-center items-center align-middle">
             <div className='border-t-6 rounded-t-2xl border-yellow-500 my-auto space-y-5 text-center items-center align-middle  aspect-[16/12] bg-gray-200/20'>
                 <div>
-                    <div className=" text-7xl font-bold text-blue-400  text-center align-middle items-center">01</div>
+                    <div className=" text-8xl font-bold text-blue-400  text-center align-middle items-center">01</div>
                     <div className=" capitalize text-center align-middle items-center">modern trends in public administration</div>
                 </div>
             </div>
@@ -81,7 +81,7 @@ function KeyThemes() {
         <div className=" text-center items-center align-middle">
             <div className='border-t-6 rounded-t-2xl border-orange-500 my-auto space-y-5 text-center items-center align-middle  aspect-[16/12] bg-gray-200/20'>
                 <div>
-                    <div className=" text-7xl font-bold text-blue-400  text-center align-middle items-center">01</div>
+                    <div className=" text-8xl font-bold text-blue-400  text-center align-middle items-center">01</div>
                     <div className=" capitalize text-center align-middle items-center">modern trends in public administration</div>
                 </div>
             </div>
